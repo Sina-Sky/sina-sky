@@ -1,13 +1,9 @@
----  
-title: Publications  
-layout: page  
-bibliography: _bibliography/papers.bib  
----  
+---
+title: Publications
+layout: page
+bibliography: _bibliography/papers.bib
+---
 
-## Peer-Reviewed Papers  
-{% for entry in site.data.papers %}  
-- **{{ entry.author }}** ({{ entry.year }}).  
-  "{{ entry.title }}."  
-  *{{ entry.journal }}*{% if entry.volume %}, **{{ entry.volume }}**{% endif %}{% if entry.pages %}, {{ entry.pages }}{% endif %}.  
-  {% if entry.doi %}[[DOI]](https://doi.org/{{ entry.doi }}){% endif %}  
-{% endfor %}  
+<h2>Publications</h2>
+
+{% raw %}{% bibliography %}{% endraw %}
