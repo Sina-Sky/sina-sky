@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "A Dichotomy in the 1–24 GHz Parsec-scale Radio Spectra of Radio-quiet Quasars"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: February 2025
+venue: 'The Astrophysical Journal'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
